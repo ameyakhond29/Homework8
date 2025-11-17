@@ -1,3 +1,5 @@
+# Homework 8:
+
 1. Modify your docker-compose.yaml file to include sentence-transformers and pinecone packages (1pt)  
   Restart your docker containers ("docker compose down" and "docker compose up")
   docker-compose.yaml should be a part of your github submission
