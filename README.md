@@ -8,3 +8,4 @@
 6. Run search against Pinecone (1pt)  
 For each step, capture screenshots accordingly (For Airflow tasks, capture the logs screen of each task)  
 Create a github repo for this and add the link to the report  
+ 
